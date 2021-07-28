@@ -1,0 +1,2 @@
+tabula-py
+git+https://github.com/vscherbo/apps.git
